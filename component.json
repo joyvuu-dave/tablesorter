@@ -1,7 +1,6 @@
 {
   "name": "tablesorter",
-  "version": "2.8.2",
-  "main": ["./js/jquery.tablesorter.min.js", "./js/jquery.tablesorter.widgets.min.js", "./css/theme.bootstrap.css"],
+  "version": "2.9.1",
   "dependencies": {
     "jquery": ">=1.2.6"
   }
